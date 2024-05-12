@@ -7,7 +7,7 @@ python setup.py install
 
 pip install -r requirements.txt to install all the packages
 
-#for hosting the project in AWS 
+# for hosting the project in AWS 
 
 first login to the AWS: https://aws.amazon.com/console/
 
